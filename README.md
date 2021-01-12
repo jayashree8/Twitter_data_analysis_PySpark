@@ -2,7 +2,7 @@
 
 The aim of the project is to analyze Twitter data to understand the positive and negative tweets along with the most frequently used words in form of bi-grams and tri-grams. The words which make up the positive and negative tweets are also determined.
 
-## EXPERIMENTAL SETUP:
+## Experimental setup:
 1) Data Collection
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 
