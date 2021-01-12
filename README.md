@@ -26,6 +26,6 @@ Classification with Logistic Regression
 The model is real-world ready to interpret any text. The text can simply be passed through the above pipeline where it gets cleaned, tokenized, its features are extracted, and then classified as a positive or negative tweet
 
 ## Results:
-![result](http://url/to/img.png)
-![result](http://url/to/img.png)
-![result](http://url/to/img.png)
+![result](https://github.com/jayashree8/Twitter_data_analysis_PySpark/blob/main/Assets/img1.PNG)
+![result](https://github.com/jayashree8/Twitter_data_analysis_PySpark/blob/main/Assets/img2.PNG)
+![result](https://github.com/jayashree8/Twitter_data_analysis_PySpark/blob/main/Assets/img3.PNG)
